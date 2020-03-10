@@ -1,0 +1,8 @@
+{
+    "name": "office365-pr-check",
+    "version": "0.0.0",
+    "main": "index.js",
+    "dependencies": {
+        "simple-git": "1.131.0"
+    }
+}
